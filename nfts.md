@@ -32,3 +32,7 @@ Max Amount: 4,200
 
 The second generative art project. Often used as profile pictures.
 Where to buy: https://objkt.com/collection/tezzardz
+
+Common Skelez
+Neonz
+Gogos
