@@ -1,4 +1,4 @@
-Tezos is a cryptocurrency initially released in 2018 and it has an excellent grass roots NFT community with a lot of interesting projects.
+Tezos is a cryptocurrency initially released in 2018 with an excellent grass roots NFT community and many interesting projects.
 
 # Notable Projects
 
