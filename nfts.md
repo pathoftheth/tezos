@@ -39,6 +39,10 @@ Where to buy: https://objkt.com/collection/tezzardz
 
 Rarity Details: https://www.fukkrs.gallery/#/
 
+## Gogos
+
+Mint price was 15 tz
+
 - Common Skelez
 - Neonz
-- Gogos
+
