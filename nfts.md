@@ -41,7 +41,10 @@ Rarity Details: https://www.fukkrs.gallery/#/
 
 ## Gogos
 
+18th October 2021
+
 Mint price was 15 tz
+
 
 - Common Skelez
 - Neonz
