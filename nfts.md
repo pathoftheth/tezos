@@ -42,8 +42,13 @@ Rarity Details: https://www.fukkrs.gallery/#/
 ## Gogos
 
 18th October 2021
-
+Max Amount: 5,560 (I think?)
 Mint price was 15 tz
+
+### Gogos Phase 2
+
+On 27th Jan 2022 Gogos holders were airdropped various tokens.
+Generally I think you needed 2 Gogos to qualify.
 
 
 - Common Skelez
