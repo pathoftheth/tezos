@@ -50,7 +50,20 @@ Mint price was 15 tz
 On 27th Jan 2022 Gogos holders were airdropped various tokens.
 Generally I think you needed 2 Gogos to qualify.
 
+## Randomly Common Skelez
 
-- Common Skelez
-- Neonz
+Randomly Common Skelez
+Max Amount: No cap on the number minted. In the number was 37800.
+Mint Period: 1st November 2021 (just this day?)
+Mint price was 5tz
+
+
+## Neonz
+
+## Stoopidz
+
+Stoopidz pfp was a follow up project to an intial batch of non-generated pfp on Hen.
+
+6.66 mint price [fxhash](https://www.fxhash.xyz/generative/slug/stoopid)
+Minting period was [Feb 22nd (22022022)](https://twitter.com/stoopidavatar/status/1493411604913811457) to Feb 26th 2022. The max mint was 2500 but of that 750 were minted before close.
 
