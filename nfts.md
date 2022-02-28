@@ -42,7 +42,9 @@ Rarity Details: https://www.fukkrs.gallery/#/
 ## Gogos
 
 18th October 2021
+
 Max Amount: 5,560 (I think?)
+
 Mint price was 15 tz
 
 ### Gogos Phase 2
@@ -52,11 +54,11 @@ Generally I think you needed 2 Gogos to qualify.
 
 ## Randomly Common Skelez
 
-Randomly Common Skelez
 Max Amount: No cap on the number minted. In the number was 37800.
-Mint Period: 1st November 2021 (just this day?)
-Mint price was 5tz
 
+Mint Period: 1st November 2021 (just this day?)
+
+Mint price was 5tz
 
 ## Neonz
 
@@ -65,5 +67,10 @@ Mint price was 5tz
 Stoopidz pfp was a follow up project to an intial batch of non-generated pfp on Hen.
 
 6.66 mint price [fxhash](https://www.fxhash.xyz/generative/slug/stoopid)
-Minting period was [Feb 22nd (22022022)](https://twitter.com/stoopidavatar/status/1493411604913811457) to Feb 26th 2022. The max mint was 2500 but of that 750 were minted before close.
+
+Max mint was 2500 but of that 750 were minted before close.
+
+Minting Period: [Feb 22nd (22022022)](https://twitter.com/stoopidavatar/status/1493411604913811457) to Feb 26th 2022. 
+
+
 
